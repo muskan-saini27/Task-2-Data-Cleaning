@@ -72,51 +72,42 @@ Task-2-Data-Cleaning/
 ## 📸 Screenshots
 
 ### Dataset Preview
-
 ![Dataset Preview](Screenshots/dataset_preview.png)
 
 ---
 
 ### Dataset Information
-
 ![Dataset Information](Screenshots/dataset_info.png)
 
 ---
 
 ### Dataset Shape
-
 ![Dataset Shape](Screenshots/dataset_shape.png)
 
 ---
 
 ### Data Types
-
 ![Data Types](Screenshots/data_types.png)
 
 ---
 
 ### Missing Values Check
-
 ![Missing Values](Screenshots/missing_values_check.png)
 
 ---
 
 ### Duplicate Records Check
-
-![Duplicate Records](Screenshots/duplicate_check.png)
+![Duplicate Records](Screenshots/duplicate_records_check.png)
 
 ---
 
 ### Data Type Conversion
-
 ![Data Type Conversion](Screenshots/data_type_conversion.png)
 
 ---
 
 ### Descriptive Statistics
-
 ![Descriptive Statistics](Screenshots/descriptive_statistics.png)
-
 ---
 
 ## 💡 Skills Demonstrated
