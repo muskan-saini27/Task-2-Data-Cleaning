@@ -56,7 +56,7 @@ Task-2-Data-Cleaning/
 ├── superstore.csv
 ├── cleaned_superstore.csv
 ├── task2.ipynb
-└── Screenshots/
+└── Screenshorts/
     ├── dataset_preview.png
     ├── dataset_info.png
     ├── dataset_shape.png
@@ -72,42 +72,42 @@ Task-2-Data-Cleaning/
 ## 📸 Screenshots
 
 ### Dataset Preview
-![Dataset Preview](Screenshots/dataset_preview.png)
+![Dataset Preview](Screenshorts/dataset_preview.png)
 
 ---
 
 ### Dataset Information
-![Dataset Information](Screenshots/dataset_info.png)
+![Dataset Information](Screenshorts/dataset_info.png)
 
 ---
 
 ### Dataset Shape
-![Dataset Shape](Screenshots/dataset_shape.png)
+![Dataset Shape](Screenshorts/dataset_shape.png)
 
 ---
 
 ### Data Types
-![Data Types](Screenshots/data_types.png)
+![Data Types](Screenshorts/data_types.png)
 
 ---
 
 ### Missing Values Check
-![Missing Values](Screenshots/missing_values_check.png)
+![Missing Values](Screenshorts/missing_values_check.png)
 
 ---
 
 ### Duplicate Records Check
-![Duplicate Records](Screenshots/duplicate_records_check.png)
+![Duplicate Records](Screenshorts/duplicate_records_check.png)
 
 ---
 
 ### Data Type Conversion
-![Data Type Conversion](Screenshots/data_type_conversion.png)
+![Data Type Conversion](Screenshorts/data_type_conversion.png)
 
 ---
 
 ### Descriptive Statistics
-![Descriptive Statistics](Screenshots/descriptive_statistics.png)
+![Descriptive Statistics](Screenshorts/descriptive_statistics.png)
 ---
 
 ## 💡 Skills Demonstrated
